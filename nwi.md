@@ -1,8 +1,8 @@
-[!NOTE]
+> [!NOTE]
 > This is a note.
 
-[!WARNING]
+> [!WARNING]
 > This is a warning.
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > This is a important message.
